@@ -1,16 +1,81 @@
-# React + Vite
+# 🌍 NayePankh Foundation Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive NGO website built to showcase the mission, impact, and initiatives of NayePankh Foundation. The platform helps spread awareness, encourage volunteering, and support fundraising efforts for underprivileged communities.
 
-Currently, two official plugins are available:
+## ✨ About NayePankh Foundation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+NayePankh Foundation is a student-led NGO working towards education, skill development, healthcare awareness, hunger relief, and social empowerment. The organization focuses on uplifting underprivileged communities and creating opportunities for a better future.
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Modern and responsive UI
+* Beautiful Hero Section
+* About Us Section
+* NGO Activities & Programs
+* Impact Statistics
+* Gallery Section
+* Volunteer Registration
+* Contact Form
+* Mobile-Friendly Design
+* Fast Loading Performance
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* JavaScript (ES6+)
+* Vite
+* HTML
+* CSS
+
+## 📸 Website Sections
+
+### Home
+
+An inspiring landing page highlighting the mission and vision of NayePankh Foundation.
+
+### About Us
+
+Information about the NGO, its journey, values, and objectives.
+
+### Our Impact
+
+Showcases beneficiaries, volunteers, campaigns, and achievements.
+
+### Gallery
+
+Images from NGO activities, events, and community outreach programs.
+
+### Volunteer
+
+Encourages individuals to join and contribute to social change.
+
+### Contact
+
+Allows visitors to connect with the organization easily.
+
+## 🎯 Project Goal
+
+The objective of this project is to create a professional digital presence for NayePankh Foundation, helping increase awareness, community engagement, volunteer participation, and support for social initiatives.
+
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+
+* Desktop
+* Tablet
+* Mobile Devices
+
+## 💙 Mission
+
+"Giving wings to dreams and empowering communities through education, opportunity, and compassion."
+
+## 👨‍💻 Developed By
+
+Vaibhav Bhatnagar
+
+Aspiring Full Stack Developer | React Developer | AI/ML Enthusiast
+
+---
+
+Made with ❤️ for social impact.
